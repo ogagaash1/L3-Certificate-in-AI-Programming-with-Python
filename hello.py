@@ -1,2 +1,4 @@
-import sys
-print("My name is " + sys.argv[1])
+# hello.py
+
+print("Hello, World!")
+print("My Name is Ogaga!")
